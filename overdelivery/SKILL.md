@@ -7,7 +7,7 @@ allowed-tools: Read Glob Grep Agent Bash(wc *) Bash(ls *)
 
 # overdelivery - czy zbudowano więcej, niż zamówiono, i czy to ma sens
 
-Claude przy budowie dokłada: funkcje ponad zamówienie, zakres rosnący po kawałku, rozwiązania cięższe niż problem. Bramka poprawności (przegląd błędów) dokłada jeszcze więcej, bo pyta "co może pójść źle", a nie "czy to potrzebne" - w jednym z projektów dwie rundy takiej bramki dały ok. 25-30% kodu w przypadkach brzegowych. Ten skill zleca przegląd świeżemu agentowi i oddaje użytkownikowi decyzje.
+Claude przy każdej pracy (plan, strategia, dokument, kod) dokłada: rzeczy ponad zamówienie, zakres rosnący po kawałku, rozwiązania cięższe niż problem. Bramka poprawności (przegląd błędów) dokłada jeszcze więcej, bo pyta "co może pójść źle", a nie "czy to potrzebne" - w jednym z projektów dwie rundy takiej bramki dały ok. 25-30% kodu w przypadkach brzegowych. Ten skill zleca przegląd świeżemu agentowi i oddaje użytkownikowi decyzje.
 
 ## NAJWAŻNIEJSZE ZASADY
 
